@@ -7,6 +7,7 @@ Challanges
 * The system must perform well on fresh content (Item Cold Start Problem)
 * Showing relevant items to New User (User Cold Start Problem)
 * Large Scale (Many users)
+* News articles are in different languages
 
 Content-based filtering
 -----------------------
@@ -34,7 +35,7 @@ for Recommending Scientific Articles KDD 2011](http://www.cs.columbia.edu/~blei/
 3. Model user by avaraging article Topics
 4. Use cosine similarity between aeticle and user
 
-Workshop for News Recs
-----------------------
+Workshop for News RecSys
+------------------------
 
 [INRA](https://www.ntnu.no/wiki/pages/viewpage.action?pageId=139232153)

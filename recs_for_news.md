@@ -5,6 +5,8 @@ Challanges
 ----------
 
 * The system must perform well on fresh content (Item Cold Start Problem)
+* Showing relevant items to New User (User Cold Start Problem)
+* Large Scale (Many users)
 
 Content-based filtering
 -----------------------

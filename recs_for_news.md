@@ -27,3 +27,7 @@ Hybrid Method
 
 [Collaborative Topic Modeling
 for Recommending Scientific Articles KDD 2011](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf)
+1. Model articles using LDA
+2. Adjust the LDA via behavioural data of user-article interaction (Contribution fo the paper)
+3. Model user by avaraging article Topics
+4. Use cosine similarity between aeticle and user

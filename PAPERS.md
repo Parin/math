@@ -3,7 +3,7 @@ Recommendation Systems (Papers)
 1. [Item-to-Item Collaborative Filtering 2003](https://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf)
 2. [Collaborative Filtering for Implicit Feedback Datasets 2008](http://yifanhu.net/PUB/cf.pdf)
 3. [BPR: Bayesian Personalized Ranking from Implicit Feedback 2009](https://arxiv.org/pdf/1205.2618.pdf)
-4, [Deep Neural Networks for YouTube Recommendations 2016](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
+4. [Deep Neural Networks for YouTube Recommendations 2016](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
 5. [Neural Collaborative Filtering 2017](https://arxiv.org/abs/1708.05031)
 
 Recommendation Systems (Blogs)

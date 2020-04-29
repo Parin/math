@@ -21,3 +21,9 @@ Collaborative Filtering
 2. Match users withe items
 
 Item Cold Start Problem
+
+Hybrid Method
+-------------
+
+[Collaborative Topic Modeling
+for Recommending Scientific Articles KDD 2011](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf)

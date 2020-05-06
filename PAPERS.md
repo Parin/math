@@ -8,6 +8,7 @@ Recommendation Systems (Papers)
 6. [Variational Autoencoders for Collaborative Filtering 2018](https://arxiv.org/pdf/1802.05814.pdf)
 7. [Calibrated Recommendations 2018](https://dl.acm.org/doi/pdf/10.1145/3240323.3240372?download=true)
 8. [A Contextual-Bandit Approach to Personalized News Article Recommendation 2010](http://rob.schapire.net/papers/www10.pdf)
+9. [StarSpace:Embed All The Things!_2017](https://arxiv.org/pdf/1709.03856.pdf)
 
 Recommendation Systems (Blogs)
 -------------------------------

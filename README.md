@@ -1,1 +1,1 @@
-# Repository that contains simple and intutite Math concepts usind in Machine Learning
+# Repository that contains simple and intuitive Math concepts used in Machine Learning
